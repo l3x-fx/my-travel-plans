@@ -28,7 +28,7 @@ body {
 }
 
 .destination {
-    background: #03a9f4;
+    background: #4d62d8;
     box-shadow: 0 1px 9px 0 rgba(0, 0, 0, 0.4);
     color: white;
     margin: 0.5em;
@@ -51,5 +51,5 @@ h2 {
 }
 
 #paris {
-    background-color: #d32f2f;
+    background-color: #eb4073;
 }
